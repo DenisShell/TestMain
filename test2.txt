@@ -1,3 +1,0 @@
-hello world
-I am change number one on comp
-this change number two on github
